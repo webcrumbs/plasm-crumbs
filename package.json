@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "cvd-lab",
+    "email": "cvd-lab@email.com",
+    "site": "https://github.com/cvd-lab/"
+  },
+  "name": "plasm-crumbs",
+  "description": "PLaSM crumbs for beginners",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cvd-lab/plasm-crumbs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvd-lab/plasm-crumbs.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
