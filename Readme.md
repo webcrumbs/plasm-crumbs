@@ -4,9 +4,7 @@
 
 ### Recipe
 
-- models
-- models mapping
-- models transformations
+- getting started
 
 ### Bakers
 
