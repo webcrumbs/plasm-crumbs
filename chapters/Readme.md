@@ -1,5 +1,5 @@
 ## PLaSM crumbs
 
-### Recipe
+### [Recipe](Readme.md)
 
 - Getting started
